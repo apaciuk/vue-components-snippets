@@ -1,6 +1,6 @@
-# vue-components
+# vue-components-snippets
 
-(With UIKit)
+(some With UIKit)
 
 For Nuxt (now auto import)
 
@@ -10,7 +10,7 @@ Paul Anhony McGowan
 
 # Repo
 
-https://github.com/xhostcom/vue-components.git
+https://github.com/xhostcom/vue-components-snippets.git
 
 # Website
 
